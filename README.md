@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Masturbikanerwala
--  I’m interested in Programming
--  I’m currently Learning BCA and Full-stack Web-Devlopment
+-  👨‍💻I’m interested in Programming
+-  I’m currently Learning BCA and Full-stack Web-Development
 
 
 <!---
